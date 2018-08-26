@@ -11,8 +11,9 @@
 
 ## Best Upcoming Conferences
 * **Scaling Bitcoin 2018 (6 October 2018)**: [Website](https://tokyo2018.scalingbitcoin.org)
-* **Stanford Blockchain Conference (30 January 2019)** : [Website](https://cyber.stanford.edu/sbc19)
 * **Etherum DevCon 2018 (30 October 2018)**: [Website](https://devcon4.ethereum.org)
+* **Stanford Blockchain Conference (30 January 2019)** : [Website](https://cyber.stanford.edu/sbc19)
+
 
 ## Best Learning Resources
 * **Cryptocurrency Security by Andrew Miller** : [Slides & Readings](http://soc1024.ece.illinois.edu/)
