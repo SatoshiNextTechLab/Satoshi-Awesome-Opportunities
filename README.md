@@ -19,6 +19,7 @@
 ## Best Learning Resources
 * **Cryptocurrency Security by Andrew Miller** : [Slides & Readings](http://soc1024.ece.illinois.edu/)
 * **CBC Casper By Vlad Zamafir** : [Pre-Registration](https://blockchainedu1.typeform.com/to/oy6ai0)
+* **CryptoEconomics by Karl Floersch**: [Cryptoeconomics.study](http://cryptoeconomics.study)
 * **Vulnerability-Testing for Solidity Contracts**: [Capture the Ether](http://capturetheether.com)
 * **Intro to Solidity Programming**: [Cryptozombies](https://cryptozombies.io)
 
