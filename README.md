@@ -1,4 +1,4 @@
-# Satoshi Lab's Awesome Opportunity List
+Awesome Opportunities in Crypto
 
 ## Live Call-For-Papers
 * **Financial Cryptography and Data Security 2019** : [CFP-2019](http://fc19.ifca.ai/cfp.html)
