@@ -5,14 +5,14 @@
 
 ## Live Research Proposals
 * **Ethereum** : [Github Listing](https://github.com/ethereum/research/wiki/Problems) or [Website Forum](https://ethresear.ch/)
-* **Protocol Labs** : [Research RFPs](https://github.com/protocol/research-RFPs)
-* **IBM Research** : [IBM Featured Research](https://www.research.ibm.com/blockchain/#featured-blockchain-research)
-* **ZCash 2018Q2** : [ZCash Grant Proposals](https://github.com/ZcashFoundation/GrantProposals-2018Q2)
+* **Protocol Labs** : [Request for Propoals](https://github.com/protocol/research-RFPs)
+* **ZCash 2018Q2** : [Request for Proposals](https://github.com/ZcashFoundation/GrantProposals-2018Q2)
 * **Monero Research** : [MRL To-Do list/roadmap](https://github.com/monero-project/research-lab/issues/29)
 
 ## Best Upcoming Conferences
 * **Scaling Bitcoin 2018 (6 October 2018)**: [Website](https://tokyo2018.scalingbitcoin.org)
 * **Stanford Blockchain Conference (30 January 2019)** : [Website](https://cyber.stanford.edu/sbc19)
+* **Etherum DevCon 2018 (30 October 2018)**: [Website](https://devcon4.ethereum.org)
 
 ## Best Learning Resources
 * **Cryptocurrency Security by Andrew Miller** : [Slides & Readings](http://soc1024.ece.illinois.edu/)
