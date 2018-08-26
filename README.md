@@ -24,7 +24,7 @@ Awesome Opportunities in Crypto
 * **Intro to Solidity Programming**: [Cryptozombies](https://cryptozombies.io)
 
 ## Inclusion Initiatives (for Women, LGBTQ+)
-She256: [Mentorship Program](https://www.she256.io/mentorship)
+* She256: [Mentorship Program](https://www.she256.io/mentorship)
 
 ## Best of Past Conferences/Workshops/Hackathons
 * **ETHCC 2018** : [EthCC Talks](https://docs.google.com/spreadsheets/d/1t3CdiKlTiozbFkFwBVbNQ1Qc9s9ipDSRJPwGsHd0Yvw)
