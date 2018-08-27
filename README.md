@@ -21,6 +21,7 @@
 * **CryptoEconomics by Karl Floersch**: [Cryptoeconomics.study](http://cryptoeconomics.study)
 * **Vulnerability-Testing for Solidity Contracts**: [Capture the Ether](http://capturetheether.com)
 * **Intro to Solidity Programming**: [Cryptozombies](https://cryptozombies.io)
+* **Security game by Open Zeppelin** : [Ethernaut](https://ethernaut.zeppelin.solutions/)
 
 ## Inclusion Initiatives (for Women, LGBTQ+)
 * She256: [Mentorship Program](https://www.she256.io/mentorship)
