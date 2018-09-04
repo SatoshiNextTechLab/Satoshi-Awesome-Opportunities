@@ -40,3 +40,7 @@
 * **[Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)**
 * **[EthereumList](https://github.com/Scanate/EthList)**
 * **[Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)**
+
+## Blockchain Dataset for analysis  
+* **[Ethereum in BigQuery](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics)**
+* **[Bitcoin in BigQuery](https://cloud.google.com/blog/products/gcp/bitcoin-in-bigquery-blockchain-analytics-on-public-data)**
