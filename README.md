@@ -22,6 +22,8 @@
 * **Vulnerability-Testing for Solidity Contracts**: [Capture the Ether](http://capturetheether.com)
 * **Intro to Solidity Programming**: [Cryptozombies](https://cryptozombies.io)
 * **Security game by Open Zeppelin** : [Ethernaut](https://ethernaut.zeppelin.solutions/)
+* **Complete Set of Resource for Solidity** : [Awesome-Solidity](https://github.com/bkrem/awesome-solidity)
+* **Ethereum Security references, guidance, tools** : [Awesome-Ethereum-Security](https://github.com/trailofbits/awesome-ethereum-security)
 
 ## Inclusion Initiatives (for Women, LGBTQ+)
 * She256: [Mentorship Program](https://www.she256.io/mentorship)
