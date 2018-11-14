@@ -40,6 +40,7 @@
 
 ## ‘*Awesome*’ compilations
 * **[Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)**
+* **[Blockchain Related Academic Papers](https://github.com/decrypto-org/blockchain-papers)**
 * **[EthereumList](https://github.com/Scanate/EthList)**
 * **[Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)**
 
