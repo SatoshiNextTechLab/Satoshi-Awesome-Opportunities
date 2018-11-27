@@ -32,6 +32,8 @@
 * **ETHCC 2018** : [EthCC Talks](https://docs.google.com/spreadsheets/d/1t3CdiKlTiozbFkFwBVbNQ1Qc9s9ipDSRJPwGsHd0Yvw)
 * **BPASE 2018** : [Blockchain Protocol Analysis and Security Engineering](https://cyber.stanford.edu/bpase18)
 * **ZConO** : [ZCash Conference](https://www.youtube.com/playlist?list=PL40dyJ0UYTLK507afWUMgzUYeh-i4qQWS&app=desktop)
+* **CESC 2018** :[CryptoEconomics Security Conference Talks](https://www.youtube.com/playlist?list=PLlXOG3oO_Ajm0_DY2IX8fXL6QPqdnYsTV&mc_eid=359f89005e&mc_cid=4adc0928c9&app=desktop)
+* **SFBW 2018** : [San Francisco Blockchain Week Talks](https://www.youtube.com/playlist?list=PLlXOG3oO_AjlB7YkamMn1rDpxJRue6CKj&mc_eid=359f89005e&mc_cid=4adc0928c9&app=desktop)
 
 ## Forums for Discussion
 * **Ethereum Community Forum** : [EthForum](http://forum.ethereum.org/)
