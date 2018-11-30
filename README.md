@@ -45,6 +45,7 @@
 * **[Blockchain Related Academic Papers](https://github.com/decrypto-org/blockchain-papers)**
 * **[EthereumList](https://github.com/Scanate/EthList)**
 * **[Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)**
+* **[Awesome Ethereum Security](https://github.com/trailofbits/awesome-ethereum-security)
 
 ## Blockchain Dataset for analysis  
 * **[Ethereum in BigQuery](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics)**
